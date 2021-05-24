@@ -5,12 +5,16 @@
 
 ![](/public/ShoppingCart1.png)
 ![](/public/ShoppingCart2.png)
+
 ### Tech-Stack
 Main web-frameworks and libraries:
 * **Node.js**: Server-side JavaScript execution environment to produce dynamic web pages and service requests.
 * **Express.js**: The de facto standard web application framework for Node.js to build web applications including this one.
 * **MongoDB(& mongoose.js)**: NoSQL database, which serves as the database for this tech stack, for storing and retrieving data(CRUD opreations).
-* **Handlebars.js**: Templating engine to produce client-side generated dynamic web pages, used to separate UI(view) from logic(model and controller)
+* **Handlebars.js(& Bootstrap)**: Templating engine to produce client-side generated dynamic web pages, used to separate UI(view) from logic(model and controller)
+* Express Messages, Session, Connect Flash & Validation
+* Passport.js Authentication
+* BCrypt Hashing
 
 ### How to Host the E-Commerce Website locally on your system
 
